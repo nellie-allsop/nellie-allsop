@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nellie-allsop and I'm a queer autistic career-changer with a background in the third sector
+- 👋 Hi, I’m @nellie-allsop and I'm a queer, autistic career-changer with a background in the third sector
 - 👀 I’m interested in tech for good, UX and accessibility
-- 🌱 I’m currently learning next.js on a two week bootcamp with Tech Educators
-- 💞️ I’m looking to collaborate on sites for not for profits, especially on a voluntary basis
+- 🌱 I’m currently learning how to make my portfolio site stand out using next.js and tailwind
+- 💞️ I’m looking to collaborate on sites for not-for-profits, especially on a voluntary basis
 - 📫 How to reach me? Drop me a message via nellie.allsop@gmail.com
